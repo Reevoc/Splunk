@@ -1,0 +1,1285 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "479c3ee8-1142-11ef-8700-fc4482bb2f78",
+            "deck_config_uuid": "479c3ee9-1142-11ef-b7c6-fc4482bb2f78",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Comparing Values",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eval cannot exist as an expression.&nbsp; &nbsp; &nbsp;",
+                        "",
+                        "2",
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "m1C;T~mSp$",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "When using the eval command, all field values are treated in a case-sensitive manner and must be double-quoted.&nbsp;",
+                        "",
+                        "2",
+                        "FALSE",
+                        "TRUE",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "jqg)1&,Vyc",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The case function will return NULL if no expressions evaluate to TRUE.",
+                        "",
+                        "2",
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "d;b:.Q=qB",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The&nbsp;<strong>where&nbsp;</strong>command only returns results that evaluate to TRUE.&nbsp; &nbsp;&nbsp;",
+                        "",
+                        "2",
+                        "FALSE",
+                        "TRUE",
+                        "",
+                        "",
+                        "0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "I_54??G?FC",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Temporary fields created by using eval can be referenced in the search pipeline following creation.&nbsp;",
+                        "",
+                        "2",
+                        "FALSE",
+                        "TRUE",
+                        "",
+                        "",
+                        "0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "fW|T`33HN{",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which eval function is the best option for masking data?",
+                        "",
+                        "2",
+                        "replace",
+                        "validate",
+                        "isnotnull",
+                        "case",
+                        "x x 0 x",
+                        "",
+                        ""
+                    ],
+                    "guid": "Qki/I25pFQ",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span style=\"color: rgb(0, 0, 0); letter-spacing: -0.2px; background-color: rgb(255, 255, 255);\">Which are the Boolean operators that can be used by the eval command? Select all that apply.&nbsp; &nbsp;&nbsp;</span>",
+                        "",
+                        "1",
+                        "NAND",
+                        "OR",
+                        "XOR",
+                        "AND",
+                        "0 1 1 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "IwdJz&Cq=W",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The eval command calculates an expression and puts the resulting ____ into a new or existing field.&nbsp;",
+                        "",
+                        "2",
+                        "value",
+                        "command",
+                        "argument",
+                        "",
+                        "1 0 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "MYJPyum>bY",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which of the following functions can be used to filter NULL values?&nbsp;",
+                        "",
+                        "1",
+                        "usenull=t",
+                        "isnotnull",
+                        "isnull",
+                        "usenull=f",
+                        "0 1 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "fbr:qn1eO#",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which of the following functions must be used with the&nbsp;<strong>in&nbsp;</strong>function? Select all that apply.&nbsp;&nbsp;",
+                        "",
+                        "1",
+                        "sum",
+                        "if",
+                        "case",
+                        "validate",
+                        "0 1 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "r+Tb&;`Dpp",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which of these fillnull expressions will replace NULL data with the string \"NOT FOUND\"?",
+                        "",
+                        "2",
+                        "| fillnull value=\"NOT FOUND\"",
+                        "| fillnull NOTFOUND=true",
+                        "| fillnull NOTFOUND",
+                        "| fillnull",
+                        "1 0 0 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "J+KD[uSR#G",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The&nbsp;<strong>where&nbsp;</strong>command interprets unquoted or single-quoted strings as _____ and double-quoted strings as _____.&nbsp; &nbsp; &nbsp;",
+                        "",
+                        "2",
+                        "fields, field values&nbsp;",
+                        "integers, field values&nbsp;",
+                        "field values, integers",
+                        "field values, fields",
+                        "1 0 0 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "yuu<Q@qSF_",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the order of Boolean Expression of Evaluation for the where and eval commands?",
+                        "",
+                        "2",
+                        "NOT, AND, OR, Expressions with parenthesis",
+                        "AND, OR, NOT, Expressions with parenthesi",
+                        "Expressions with parenthesis, NOT, AND, OR&nbsp;",
+                        "AND, &nbsp;NOT, Expressions with parenthesis, OR&nbsp;",
+                        "0 0 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "gsXD79k+?I",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><div>&nbsp;Specify a wildcard by using the * character with the where command.&nbsp;</div></div></div>",
+                        "",
+                        "2",
+                        "FALSE",
+                        "TRUE",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "c_]6nTh%Uf",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The ___ command replaces NULL values in fields.",
+                        "",
+                        "2",
+                        "fillnull",
+                        "null",
+                        "isnull",
+                        "isnotnull",
+                        "1 0 0 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "nF?|K$.8kZ",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "479c5324-1142-11ef-bd98-fc4482bb2f78",
+            "deck_config_uuid": "479c5325-1142-11ef-b7ea-fc4482bb2f78",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Statistical Processing",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The pow(X,Y) eval function returns Y to the power of X.",
+                        "",
+                        "2",
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        "",
+                        "0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "jtN(/2>_9[",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "&nbsp;Use useother=false with the chart command if you want to hide the OTHER column.",
+                        "",
+                        "2",
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "zScRjkI|Jg",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "By default, the sort command lists results in ___ order.",
+                        "",
+                        "2",
+                        "ascending",
+                        "descending",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "LM[:f/|CFF",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which eval function would you use to round numerical values?",
+                        "",
+                        "2",
+                        "tonnumber",
+                        "roundvalue",
+                        "commas",
+                        "round",
+                        "0 0 0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "KwLwTDT4g:",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The timechart command will always have _time as the X-axis.",
+                        "",
+                        "2",
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "v:dkwJk?B.",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Using an OVER and a BY clause with the chart command will create a multiseries data series.",
+                        "",
+                        "2",
+                        "FALSE",
+                        "TRUE",
+                        "",
+                        "",
+                        "0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "{$qsA/y8O",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "When you use the stats command with a BY clause, what is returned?",
+                        "",
+                        "2",
+                        "a statistical output for each value of the named field",
+                        "numerical statistics on each field if and only if all of the values of that field are numerical",
+                        "one row",
+                        "an error message because you did not include a statistical function",
+                        "1 0 0 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "s|jA#-0fi:",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "If you use the stats command with two functions and a BY clause, which function is the BY clause applied to?",
+                        "",
+                        "2",
+                        "the first function",
+                        "both functions",
+                        "the second function",
+                        "both functions if they are both aggregate functions",
+                        "0 0 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "LbgZG}?@t5",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which of these eval functions takes no arguments?",
+                        "",
+                        "2",
+                        "random",
+                        "max",
+                        "min",
+                        "pow",
+                        "1 0 0 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "o2N-%BM/n$",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "When renaming fields with spaces or special characters, use the rename command and inclde the new fields name in___.",
+                        "",
+                        "2",
+                        "double quotes",
+                        "None of the above",
+                        "single quotes",
+                        "parenthesis",
+                        "1 0 0 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "MM&v4x4Z{]",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Only one field can be created when using the eval command.",
+                        "",
+                        "2",
+                        "FALSE",
+                        "TRUE",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "Drg!r8an{5",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "To display the least common values of a field, use the ___ command.",
+                        "",
+                        "2",
+                        "timechart with common=f option",
+                        "top",
+                        "stats",
+                        "rare",
+                        "0 0 0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "O6w7&JQVTG",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "&nbsp;You can use wildcards (*) with the rename command to rename multiple fields that match a pattern.",
+                        "",
+                        "2",
+                        "FALSE",
+                        "TRUE",
+                        "",
+                        "",
+                        "0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "h;e;YOsgTJ",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "When using the top command, add the BY clause to ___.",
+                        "",
+                        "2",
+                        "return a percentage of events",
+                        "specify how many results to return",
+                        "return results grouped by the field you specify in the BY clause",
+                        "specify which search mode to return results by",
+                        "0 0 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "e5Hub9kH^x",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which of these functions lists ALL values of the field X?",
+                        "",
+                        "2&nbsp;",
+                        "values(X)",
+                        "list(X)",
+                        "",
+                        "",
+                        "0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "HDba>`d/8+",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "479c5355-1142-11ef-b8d0-fc4482bb2f78",
+            "deck_config_uuid": "479c5356-1142-11ef-93de-fc4482bb2f78",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Working with time",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Date_time always refelect your local zone and not the time/date from raw event:<br><ul><li>TRUE&nbsp;</li><li>FALSE</li></ul>",
+                        "FALSE"
+                    ],
+                    "guid": "bol}=~Di5]",
+                    "note_model_uuid": "479c5359-1142-11ef-94ff-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which of the following are default time fields? Select all that apply.",
+                        "",
+                        "1",
+                        "date_mday",
+                        "date_hour",
+                        "date_year",
+                        "date_day",
+                        "1 1 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "QBA/VY<{>a",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The _______ and _______ time modifiers will override the time range picker in a historical report.",
+                        "",
+                        "1",
+                        "last",
+                        "lastest",
+                        "earliest",
+                        "first",
+                        "0 1 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "q?v57C)z7N",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Using earliest=-30d@d latest=@d is how to return results from 30 days ago up until the time the search was executed.",
+                        "",
+                        "2",
+                        "true",
+                        "false",
+                        "",
+                        "",
+                        "0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "A7isMjd``7",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "When using the following search arguments, what will be returned? &nbsp;| timechart count span=1h",
+                        "",
+                        "2",
+                        "chart of events in 1 hour chunks",
+                        "events with a duration of 1 hour",
+                        "events in the last 24 hours",
+                        "",
+                        "1 0 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "d<%h+|b0T`",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "@timeUnit will always round up and go forward through time.",
+                        "",
+                        "2",
+                        "FALSE",
+                        "TRUE",
+                        "",
+                        "",
+                        "1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "AJS9X)d?Qo",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which of the following are default time fields? Select all that apply.",
+                        "",
+                        "2",
+                        "date_year",
+                        "date_hour",
+                        "date_mday",
+                        "date_day",
+                        "1 1 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "Ny]{`oNe$y",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Choose the search that will sort events into one minute groups. Select all that apply.",
+                        "",
+                        "1",
+                        "| bin _time span=1m",
+                        "| bin span=1minutes",
+                        "| bin _time span=1mins",
+                        "| bin span=1minute",
+                        "1 0 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "JVUqjw0Vz%",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What will the strftime function return when using the %H argument with the _time field? Select all that apply.",
+                        "",
+                        "2",
+                        "hour of the event generated at index time",
+                        "convert the hour into your local time based on your time zone setting of your Splunk web sessions",
+                        "time of raw event in UTC",
+                        "",
+                        "0 1 0",
+                        "",
+                        ""
+                    ],
+                    "guid": "cu[nN1ITG0",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "date_time always reflects your local time zone and not the time/date from raw events.",
+                        "",
+                        "2",
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        "",
+                        "0 1",
+                        "",
+                        ""
+                    ],
+                    "guid": "e%1tA<_&p}",
+                    "note_model_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "479bda58-1142-11ef-bbe8-fc4482bb2f78",
+    "deck_config_uuid": "479bda59-1142-11ef-aef8-fc4482bb2f78",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "479bda59-1142-11ef-aef8-fc4482bb2f78",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "479c3ee9-1142-11ef-b7c6-fc4482bb2f78",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "479c5325-1142-11ef-b7ea-fc4482bb2f78",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "479c5356-1142-11ef-93de-fc4482bb2f78",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "PowerUser-Splunk",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "479c3eec-1142-11ef-8383-fc4482bb2f78",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.small {\n  font-size: 15px;\n}\n\ntable, td, th {\n  border-collapse: collapse;\n  padding: 5px;\n}\n\ntable {\n  display: inline-block;\n  text-align: left;\n}\n\nlabel {\n  display: inline-block;\n  vertical-align: middle;\n  margin-left: 0.4em;\n}\n\n.correct {\n  background-color: lime;\n}\n\n.nightMode .correct {\n  background-color: #009900;\n}\n\n.wrong {\n  background-color: OrangeRed;\n}\n\n.hidden {\n  /*\n  This block is from Glutanimate's Cloze Overlapper card template.\n  The Cloze Overlapper card template is licensed under the CC BY-SA 4.0\n  license (https://creativecommons.org/licenses/by-sa/4.0/).\n  */\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height: 0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6002147486987191479,
+                    "name": "Question",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2562367954814502135,
+                    "name": "Title",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8851284096652433544,
+                    "name": "QType (0=kprim,1=mc,2=sc)",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6770282834480949981,
+                    "name": "Q_1",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6020711402255886864,
+                    "name": "Q_2",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 3062298698215709335,
+                    "name": "Q_3",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2748927998249313883,
+                    "name": "Q_4",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2235005865988411071,
+                    "name": "Answers",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 3010671675916003076,
+                    "name": "Sources",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2950167114424125205,
+                    "name": "Extra 1",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "AllInOne (kprim, mc, sc)",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "<script>\n    // Loading Persistence\n    // https://github.com/SimonLammer/anki-persistence\n    // v0.5.2 - https://github.com/SimonLammer/anki-persistence/blob/62463a7f63e79ce12f7a622a8ca0beb4c1c5d556/script.js\n    if (void 0 === window.Persistence) { var _persistenceKey = \"github.com/SimonLammer/anki-persistence/\", _defaultKey = \"_default\"; if (window.Persistence_sessionStorage = function () { var e = !1; try { \"object\" == typeof window.sessionStorage && (e = !0, this.clear = function () { for (var e = 0; e < sessionStorage.length; e++) { var t = sessionStorage.key(e); 0 == t.indexOf(_persistenceKey) && (sessionStorage.removeItem(t), e--) } }, this.setItem = function (e, t) { void 0 == t && (t = e, e = _defaultKey), sessionStorage.setItem(_persistenceKey + e, JSON.stringify(t)) }, this.getItem = function (e) { return void 0 == e && (e = _defaultKey), JSON.parse(sessionStorage.getItem(_persistenceKey + e)) }, this.removeItem = function (e) { void 0 == e && (e = _defaultKey), sessionStorage.removeItem(_persistenceKey + e) }) } catch (e) { } this.isAvailable = function () { return e } }, window.Persistence_windowKey = function (e) { var t = window[e], i = !1; \"object\" == typeof t && (i = !0, this.clear = function () { t[_persistenceKey] = {} }, this.setItem = function (e, i) { void 0 == i && (i = e, e = _defaultKey), t[_persistenceKey][e] = i }, this.getItem = function (e) { return void 0 == e && (e = _defaultKey), t[_persistenceKey][e] || null }, this.removeItem = function (e) { void 0 == e && (e = _defaultKey), delete t[_persistenceKey][e] }, void 0 == t[_persistenceKey] && this.clear()), this.isAvailable = function () { return i } }, window.Persistence = new Persistence_sessionStorage, Persistence.isAvailable() || (window.Persistence = new Persistence_windowKey(\"py\")), !Persistence.isAvailable()) { var titleStartIndex = window.location.toString().indexOf(\"title\"), titleContentIndex = window.location.toString().indexOf(\"main\", titleStartIndex); titleStartIndex > 0 && titleContentIndex > 0 && titleContentIndex - titleStartIndex < 10 && (window.Persistence = new Persistence_windowKey(\"qt\")) } }\n</script>\n\n{{#Title}}<h3 id=\"myH1\">{{Title}}</h3>{{/Title}}\n{{#Question}}<p>{{Question}}</p>{{/Question}}\n<table id=\"qtable\"></table>\n<p id=\"output\"></p>\n<div class=\"hidden\" id=\"MC_solutions\">solutions_here</div>\n<div class=\"hidden\" id=\"user_answers\">user_answers_here</div>\n<div class=\"hidden\" id=\"CardType\">{{QType (0=kprim,1=mc,2=sc)}}</div>\n<p id=\"canswerresult\"><b>Correct answers: x %</b></p>\n{{#Sources}}<p class=\"small\" id=\"sources\"><b>Sources:</b><br />{{Sources}}</p>{{/Sources}}\n{{#Extra 1}}<p class=\"small\" id=\"extra1\"><b>Extra 1:</b><br />{{Extra 1}}</p>{{/Extra 1}}\n\n<script>\n    \"use strict\";\n\n    function onLoad() {\n        // Check if Persistence is recognized to prevent errors when viewing note in \"Manage Note Types...\"\n        if (Persistence.isAvailable && Persistence.getItem('Q_solutions') !== null) {\n\n            const DEFAULT_COLORING = { // Defines which class should be set\n                wrongAndNotTicked: 'correct',\n                correctAndTicked: 'correct',\n                wrongButTicked: 'wrong',\n                correctButNotTicked: 'wrong',\n                withoutSelection: \"wrong\" // Kprim was marked neither correct nor wrong\n            };\n\n            const ALTERNATE_COLORING = { // Defines which class should be set\n                wrongAndNotTicked: '',\n                correctAndTicked: '',\n                wrongButTicked: 'wrong',\n                correctButNotTicked: 'correct',\n                withoutSelection: \"wrong\" // Kprim was marked neither correct nor wrong\n            };\n\n            // Options are modified according to user's meta.json in the addon's folder\n            const OPTIONS = {\n                qtable: {\n                    visible: true,\n                    colorize: false,\n                    colors: DEFAULT_COLORING\n                },\n                atable: {\n                    visible: true,\n                    colorize: true,\n                    colors: DEFAULT_COLORING\n                }\n            };\n\n            const colorizeTableRow = function (row, tableType, solution, answer) {\n                let colorOptions = OPTIONS[tableType].colors\n\n                if ((solution === 1) && (answer === 1)) {\n                    row.setAttribute(\"class\", colorOptions.correctAndTicked);\n                } else if ((solution === 0) && (answer === 0)) {\n                    row.setAttribute(\"class\", colorOptions.wrongAndNotTicked);\n                } else if ((solution === 0) && (answer === 1)) {\n                    row.setAttribute(\"class\", colorOptions.wrongButTicked);\n                } else if ((solution === 1) && (answer === 0)) {\n                    row.setAttribute(\"class\", colorOptions.correctButNotTicked);\n                } else if (type == 0 && (answer === 2)) {\n                    row.setAttribute(\"class\", colorOptions.withoutSelection);\n                }\n            }\n\n            // Parsing solutions\n            var solutions = Persistence.getItem('Q_solutions');\n            var answers = Persistence.getItem('user_answers');\n\n            var type = document.getElementById('CardType').innerHTML;\n            var qtable = document.getElementById('qtable');\n            qtable.innerHTML = Persistence.getItem('qtable');\n\n            // Clone atable from qtable before colorizing the qtable\n            if (OPTIONS.atable.visible) {\n                var output = document.getElementById(\"output\");\n                var atable = qtable.cloneNode(true);\n                atable.setAttribute(\"id\", \"atable\");\n                output.innerHTML = \"<hr id='answer' />\" + atable.outerHTML;\n\n                var arows = document.getElementById(\"atable\").getElementsByTagName(\"tbody\")[0].getElementsByTagName(\"tr\");\n            }\n\n            if (OPTIONS.qtable.visible) {\n                var qrows = qtable.getElementsByTagName('tbody')[0].getElementsByTagName(\"tr\");\n                for (let i = 0; i < answers.length; i++) {\n                    //Set the radio buttons in the qtable.\n                    if (type == 0) {\n                        if (answers[i] === 1) {\n                            let radioButton = qrows[i + 1].getElementsByTagName(\"td\")[0].getElementsByTagName(\"input\")[0];\n                            radioButton.checked = true;\n                            radioButton.disabled = true;\n                        } else if (answers[i] === 0) {\n                            let radioButton = qrows[i + 1].getElementsByTagName(\"td\")[1].getElementsByTagName(\"input\")[0];\n                            radioButton.checked = true;\n                            radioButton.disabled = true;\n                        }\n                    } else {\n                        let radioButton = qrows[i].getElementsByTagName(\"td\")[0].getElementsByTagName(\"input\")[0];\n                        radioButton.checked = (answers[i] === 1) ? true : false;\n                        radioButton.disabled = true;\n                    }\n                    //Colorize the qtable.\n                    if (OPTIONS.qtable.colorize) {\n                        colorizeTableRow(qrows[(type != 0) ? i : i + 1], \"qtable\", solutions[i], answers[i]);\n                    }\n                }\n            } else qtable.innerHTML = \"\"\n\n            var canswers = 0;\n            for (let i = 0; i < solutions.length; i++) {\n                if (OPTIONS.atable.visible) {\n                    //Rename the radio buttons of the atable to avoid interference with those in the qtable.\n                    if (type == 0) arows[i + 1].getElementsByTagName(\"td\")[1].getElementsByTagName(\"input\")[0].setAttribute(\"name\", \"ans_\" + ((type != 2) ? String(i + 1) : 'A') + \"_solution\");\n                    arows[(type != 0) ? i : i + 1].getElementsByTagName(\"td\")[0].getElementsByTagName(\"input\")[0].setAttribute(\"name\", \"ans_\" + ((type != 2) ? String(i + 1) : 'A') + \"_solution\");\n                    //Set the radio buttons in the atable.\n                    if (type == 0) {\n                        let radioButton = arows[i + 1].getElementsByTagName(\"td\")[solutions[i] ? 0 : 1].getElementsByTagName(\"input\")[0];\n                        radioButton.checked = true;\n                        radioButton.disabled = true;\n                    }\n                    else {\n                        let radioButton = arows[i].getElementsByTagName(\"td\")[0].getElementsByTagName(\"input\")[0];\n                        radioButton.checked = solutions[i] ? true : false;\n                        radioButton.disabled = true;\n                    }\n                    //Colorize the atable.\n                    if (OPTIONS.atable.colorize) {\n                        colorizeTableRow(arows[(type != 0) ? i : i + 1], \"atable\", solutions[i], answers[i]);\n                    }\n                }\n\n                //Count correct answers.\n                if (solutions[i] && answers[i] === 1) {\n                    canswers = canswers + 1;\n                } else if (!solutions[i] && answers[i] === 0) {\n                    canswers = canswers + 1;\n                }\n            }\n        }\n        var canswerresult = document.getElementById(\"canswerresult\");\n        if (type == 2) {\n            canswerresult.innerHTML = \"<b>\" + ((canswers / solutions.length == 1) ? \"Correct.</b>\" : \"Nope.</b>\");\n        } else {\n            canswerresult.innerHTML = \"<b>Correct answers: \" + Math.round(canswers / solutions.length * 100) + \" %</b>\";\n        }\n\n        Persistence.clear();\n    }\n\n    function isMobile() {\n        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {\n            return true;\n        } else {\n            return false;\n        }\n    }\n\n    function sleep(ms) {\n        return new Promise(resolve => setTimeout(resolve, ms));\n    }\n\n    function run() {\n        if (!isMobile() && typeof tickCheckboxOnNumberKeyDown !== \"undefined\") {\n            // To make sure there isn't a previously registered event handler lingering into the next review\n            document.removeEventListener('keydown', tickCheckboxOnNumberKeyDown, false);\n        }\n        setTimeout(onLoad(), 1);\n    }\n\n    async function waitForReadyStateAndRun() {\n        for (let i = 0; i < 100; i++) {\n            if (document.readyState === \"complete\") {\n                run();\n                break;\n            }\n            console.log(\"Document not yet fully loaded (readyState: \" + document.readyState + \"). Retry in 0.1s.\");\n            await sleep(100);\n        }\n    }\n\n    /*\n    The following block is inspired by Glutanimate's Cloze Overlapper card template.\n    The Cloze Overlapper card template is licensed under the CC BY-SA 4.0\n    license (https://creativecommons.org/licenses/by-sa/4.0/).\n    */\n    if (document.readyState === \"complete\") {\n        run();\n    } else if (isMobile()) {\n        document.addEventListener(\"DOMContentLoaded\", function () {\n            setTimeout(onLoad, 1);\n        }, false);\n    } else {\n        waitForReadyStateAndRun();\n    }\n</script>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 5816306146856865638,
+                    "name": "AllInOne (kprim, mc, sc)",
+                    "ord": 0,
+                    "qfmt": "<script>\n    // Loading Persistence\n    // https://github.com/SimonLammer/anki-persistence\n    // v0.5.2 - https://github.com/SimonLammer/anki-persistence/blob/62463a7f63e79ce12f7a622a8ca0beb4c1c5d556/script.js\n    if (void 0 === window.Persistence) { var _persistenceKey = \"github.com/SimonLammer/anki-persistence/\", _defaultKey = \"_default\"; if (window.Persistence_sessionStorage = function () { var e = !1; try { \"object\" == typeof window.sessionStorage && (e = !0, this.clear = function () { for (var e = 0; e < sessionStorage.length; e++) { var t = sessionStorage.key(e); 0 == t.indexOf(_persistenceKey) && (sessionStorage.removeItem(t), e--) } }, this.setItem = function (e, t) { void 0 == t && (t = e, e = _defaultKey), sessionStorage.setItem(_persistenceKey + e, JSON.stringify(t)) }, this.getItem = function (e) { return void 0 == e && (e = _defaultKey), JSON.parse(sessionStorage.getItem(_persistenceKey + e)) }, this.removeItem = function (e) { void 0 == e && (e = _defaultKey), sessionStorage.removeItem(_persistenceKey + e) }) } catch (e) { } this.isAvailable = function () { return e } }, window.Persistence_windowKey = function (e) { var t = window[e], i = !1; \"object\" == typeof t && (i = !0, this.clear = function () { t[_persistenceKey] = {} }, this.setItem = function (e, i) { void 0 == i && (i = e, e = _defaultKey), t[_persistenceKey][e] = i }, this.getItem = function (e) { return void 0 == e && (e = _defaultKey), t[_persistenceKey][e] || null }, this.removeItem = function (e) { void 0 == e && (e = _defaultKey), delete t[_persistenceKey][e] }, void 0 == t[_persistenceKey] && this.clear()), this.isAvailable = function () { return i } }, window.Persistence = new Persistence_sessionStorage, Persistence.isAvailable() || (window.Persistence = new Persistence_windowKey(\"py\")), !Persistence.isAvailable()) { var titleStartIndex = window.location.toString().indexOf(\"title\"), titleContentIndex = window.location.toString().indexOf(\"main\", titleStartIndex); titleStartIndex > 0 && titleContentIndex > 0 && titleContentIndex - titleStartIndex < 10 && (window.Persistence = new Persistence_windowKey(\"qt\")) } }\n</script>\n\n{{#Title}}<h3 id=\"myH1\">{{Title}}</h3>{{/Title}}\n{{#Question}}<p>{{Question}}</p>{{/Question}}\n\n<div class=\"tappable\">\n    <table style=\"border: 1px solid black\" id=\"qtable\"></table>\n</div>\n\n<div class=\"hidden\" id=\"Q_solutions\">{{Answers}}</div>\n<div class=\"hidden\" id=\"Card_Type\">{{QType (0=kprim,1=mc,2=sc)}}</div>\n\n<div class=\"hidden\" id=\"Q_1\">{{Q_1}}</div>\n<div class=\"hidden\" id=\"Q_2\">{{Q_2}}</div>\n<div class=\"hidden\" id=\"Q_3\">{{Q_3}}</div>\n<div class=\"hidden\" id=\"Q_4\">{{Q_4}}</div>\n\n<script>\n    // Generate the table depending on the type.\n    function generateTable() {\n\n        // Options are modified according to user's meta.json in the addon's folder\n        const OPTIONS = {\n            maxQuestionsToShow: 0\n        };\n\n        var type = document.getElementById(\"Card_Type\").innerHTML;\n        var table = document.createElement(\"table\");\n        var tbody = document.createElement(\"tbody\");\n\n        if (type == 0) {\n            tbody.innerHTML = '<tr><th>yes</th><th>no</th><th></th></tr>';\n        }\n\n        stripHtmlTagsFromSolutionString();\n\n        let solutions = getCorrectAnswers();\n        let questionTableHtmlLinesToSolution = []\n        for (var i = 0; true; i++) {\n            if (document.getElementById('Q_' + (i + 1)) != undefined) {\n                if (document.getElementById('Q_' + (i + 1)).innerHTML != '') {\n                    var html = [];\n\n                    let answerText = document.getElementById('Q_' + (i + 1)).innerHTML;\n                    let labelTag = (type == 0) ? '' :\n                        '<label for=\"inputQuestion' + (i + 1) + '\">' + answerText + '</label>';\n                    let textAlign = (type == 0) ? 'center' : 'left';\n\n                    html.push('<tr>');\n                    var maxColumns = ((type == 0) ? 2 : 1);\n                    for (var j = 0; j < maxColumns; j++) {\n                        let inputTag = '<input id=\"inputQuestion' + (i + 1) +\n                            '\" name=\"ans_' + ((type != 2) ? (i + 1) : 'A') +\n                            '\" type=\"' + ((type == 1) ? 'checkbox' : 'radio') +\n                            // TODO: I don't see how these values are used, please add a comment\n                            '\" value=\"' + ((j == 0) ? 1 : 0) + '\">';\n                        html.push(\n                            '<td onInput=\"onCheck()\" style=\"text-align: ' + textAlign + '\">' + inputTag +\n                            labelTag +\n                            '</td>');\n                    }\n                    if (type == 0) {\n                        html.push('<td>' + answerText + '</td>');\n                    }\n                    html.push('</tr>');\n\n                    questionTableHtmlLinesToSolution.push({\n                        html: html.join(\"\"),\n                        solution: solutions[i]\n                    });\n                }\n            } else {\n                break;\n            }\n        }\n        let shuffledQuestionTableHtmlLinesToSolution = getShuffledQuestionTableHtmlLinesToSolution(\n            questionTableHtmlLinesToSolution, type, OPTIONS['maxQuestionsToShow']);\n\n        let shuffledHtmlLines = shuffledQuestionTableHtmlLinesToSolution\n            .map(o => o.html)\n            .join(\"\");\n        let shuffledSolutions = shuffledQuestionTableHtmlLinesToSolution\n            .map(o => o.solution);\n\n        tbody.innerHTML += shuffledHtmlLines;\n\n        table.appendChild(tbody);\n        document.getElementById('qtable').innerHTML = table.innerHTML;\n\n        storeCorrectAnswersInHtml(shuffledSolutions)\n\n        onCheck();  // store user answers at least once in case nothing was ticked\n    }\n\n    function stripHtmlTagsFromSolutionString() {\n        let solutionString = document.getElementById(\"Q_solutions\").innerHTML;\n        document.getElementById(\"Q_solutions\").innerHTML = solutionString.replace(/(<([^>]+)>)/gi, \"\");\n    }\n\n    /**\n     * Returns the shuffled and potentially reduced lines of HTML combined with their solution value\n     *\n     * In case of single choice it is guaranteed that the correct answer is shuffled in\n     * between the wrong ones.\n     *\n     * @param   {questionTableHtmlLinesToSolution}  Array[Object]   objects containing the\n     *                                                              properties 'html' and 'solution'\n     * @param   {type}                              int             Card type\n     * @param   {maxQuestionsToShow}                int             see config options\n     */\n    function getShuffledQuestionTableHtmlLinesToSolution(\n        questionTableHtmlLinesToSolution, type, maxQuestionsToShow) {\n\n        if (type != 2) {\n            shuffledQuestionTableHtmlLinesToSolution = questionTableHtmlLinesToSolution.sort(\n                () => Math.random() < 0.5 ? -1 : 1);\n\n            if (maxQuestionsToShow > 1) {\n                return shuffledQuestionTableHtmlLinesToSolution.slice(0, maxQuestionsToShow);\n            } else {\n                return shuffledQuestionTableHtmlLinesToSolution;\n            }\n\n        } else {\n            // To have the single correct answer randomly inserted into the wrong ones\n            let correctAnswer = questionTableHtmlLinesToSolution.find(o => o.solution == 1);\n            let wrongAnswers = questionTableHtmlLinesToSolution.filter(o => o.solution == 0);\n            wrongAnswers.sort(() => Math.random() < 0.5 ? -1 : 1);\n\n            if (maxQuestionsToShow > 1) {\n                wrongAnswers = wrongAnswers.slice(0, maxQuestionsToShow - 1);\n            }\n\n            let randomIndex = Math.floor(Math.random() * (wrongAnswers.length + 1));\n            wrongAnswers.splice(randomIndex, 0, correctAnswer);\n\n            return wrongAnswers;\n        }\n    }\n\n    /**\n     * Returns true if the option box/circle is checked.\n     *\n     * In case of kprim the second box is used as reference.\n     *\n     * @param   {HTMLTableRowElement}    optionRow    Row containing option boxes/circles.\n     * @param   {number}    index   Index of the option in question.\n     */\n    function isOptionChecked(optionRow, index) {\n        return optionRow.getElementsByTagName(\"td\")[index].getElementsByTagName(\"input\")[0].checked\n    }\n\n    function getUserAnswers() {\n        let type = document.getElementById(\"Card_Type\").innerHTML;\n        let qrows = document.getElementById(\"qtable\").getElementsByTagName('tbody')[0].getElementsByTagName(\"tr\");\n        let userAnswers = [];\n        for (let i = 0; i < qrows.length; i++) {\n            if (type == 0 && i == 0) {\n                i++; // to skip the first row containing no checkboxes when type is 'kprim'\n            }\n            if (type == 0) {\n                if (isOptionChecked(qrows[i], 0)) {\n                    userAnswers.push(1);\n                } else if (isOptionChecked(qrows[i], 1)) {\n                    userAnswers.push(0);\n                } else {\n                    userAnswers.push(2);\n                }\n            } else {\n                if (isOptionChecked(qrows[i], 0)) {\n                    userAnswers.push(1);\n                } else {\n                    userAnswers.push(0);\n                }\n            }\n        }\n        return userAnswers\n    }\n\n    /**\n     * Get the solutions stored in the hidden div with id \"Q_solutions\" as Array.\n     */\n    function getCorrectAnswers() {\n        let solutions = document.getElementById(\"Q_solutions\").innerHTML.split(\" \").map(string => Number(string));\n\n        return solutions;\n    }\n\n    function storeCorrectAnswersInHtml(solutions) {\n        document.getElementById(\"Q_solutions\").innerHTML = solutions.join(\" \");\n    }\n\n    /**\n     * On checking an option this collects and stores answers in between front/back of the card.\n     *\n     * In case of kprim only the first box is looked at, if it isn't checked the second box has to be.\n     * By default a '1' in the answers stands for 'yes' which is the first option from the left.\n     */\n    function onCheck() {\n        // Send question table and encoded answers to Persistence along with the provided solutions\n        if (Persistence.isAvailable()) {\n            Persistence.clear();\n            Persistence.setItem('user_answers', getUserAnswers());\n            Persistence.setItem('Q_solutions', getCorrectAnswers());\n            Persistence.setItem('qtable', document.getElementById(\"qtable\").innerHTML);\n        }\n    }\n\n    function sleep(ms) {\n        return new Promise(resolve => setTimeout(resolve, ms));\n    }\n\n    function tickCheckboxOnNumberKeyDown(event) {\n        const keyName = event.key;\n\n        let tableBody = document.getElementById(\"qtable\").getElementsByTagName('tbody')[0];\n        var tableRows = tableBody.getElementsByTagName(\"tr\");\n\n        if (0 < +keyName && +keyName < 10) {\n            let tableData = tableRows[+keyName - 1].getElementsByTagName(\"td\")[0];\n            let tableRow = tableData.getElementsByTagName(\"input\")[0];\n            tableRow.checked = !tableRow.checked;\n            onCheck();\n        }\n    }\n\n    // addCheckboxTickingShortcuts is an easy approach on using only the keyboard to toggle checkboxes in mc/sc.\n    //\n    // Naturally the number keys are an intuitive choice here. Unfortunately anki does capture those.\n    // So the workaround is to hold the (left) 'Alt' key and then type the corresponding number to toggle the row.\n    function addCheckboxTickingShortcuts() {\n        document.addEventListener('keydown', tickCheckboxOnNumberKeyDown, false);\n    }\n\n    function isMobile() {\n        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {\n            return true;\n        } else {\n            return false;\n        }\n    }\n\n    function run() {\n        // for previewing the cards in \"Manage Note Type...\"\n        let DEFAULT_CARD_TYPE = 1;\n        let DEFAULT_SOLUTIONS = \"1 0 0 0 0\";\n\n        if (isNaN(document.getElementById(\"Card_Type\").innerHTML)) {\n            document.getElementById(\"Card_Type\").innerHTML = DEFAULT_CARD_TYPE;\n        }\n        if ('{' + '{Answers}' + '}' == document.getElementById(\"Q_solutions\").innerHTML) {\n            document.getElementById(\"Q_solutions\").innerHTML = DEFAULT_SOLUTIONS;\n        }\n\n        if (document.getElementById(\"Card_Type\").innerHTML != 0 && !isMobile()) {\n            addCheckboxTickingShortcuts();\n        }\n\n        setTimeout(generateTable(), 1);\n    }\n\n    async function waitForReadyStateAndRun() {\n        for (let i = 0; i < 100; i++) {\n            if (document.readyState === \"complete\") {\n                run();\n                break;\n            }\n            console.log(\"Document not yet fully loaded (readyState: \" + document.readyState + \"). Retry in 0.1s.\");\n            await sleep(100);\n        }\n    }\n\n    /*\n    The following block is inspired by Glutanimate's Cloze Overlapper card template.\n    The Cloze Overlapper card template is licensed under the CC BY-SA 4.0\n    license (https://creativecommons.org/licenses/by-sa/4.0/).\n    */\n    if (document.readyState === \"complete\") {\n        run();\n    } else {\n        waitForReadyStateAndRun();\n    }\n</script>\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "479c5359-1142-11ef-94ff-fc4482bb2f78",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -1933810854461261848,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -566720708822824405,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 5385298245533337025,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
